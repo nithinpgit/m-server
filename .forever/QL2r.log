@@ -1,0 +1,12 @@
+info    - EasyRTC: Starting EasyRTC Server (v1.0.15) on Node (v0.10.25)
+info    - EasyRTC: EasyRTC Server Ready For Connections (v1.0.15)
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #1
+info    - EasyRTC: Starting EasyRTC Server (v1.0.15) on Node (v0.10.25)
+info    - EasyRTC: EasyRTC Server Ready For Connections (v1.0.15)
+error: Forever detected script was killed by signal: SIGKILL
+error: Script restart attempt #2
+info    - EasyRTC: Starting EasyRTC Server (v1.0.15) on Node (v0.10.25)
+info    - EasyRTC: EasyRTC Server Ready For Connections (v1.0.15)
+warning - EasyRTC: Attempt to request non-existent socket: 'Czv0Ltw5DYEyHATdwFKp'
+warning - EasyRTC: Attempt to request non-existent socket: 'w-V6SQBSKm1Xvm2awFKx'

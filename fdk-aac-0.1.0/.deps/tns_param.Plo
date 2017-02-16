@@ -1,0 +1,6 @@
+tns_param.lo: libAACenc/src/tns_param.cpp /usr/include/stdc-predef.h \
+ libAACenc/src/tns_param.h
+
+/usr/include/stdc-predef.h:
+
+libAACenc/src/tns_param.h:
